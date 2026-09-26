@@ -1,3 +1,4 @@
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/10fcc32f-50a5-454c-9986-ade41cea9f35" />
 # Vrinda Store Data Analysis
 
 ## Project Overview
